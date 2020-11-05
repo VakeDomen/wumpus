@@ -7,10 +7,18 @@ import world.WorldFileHandler;
 
 public class Main {
 
+    public static Gui.View view = Gui.View.OVERVIEW;
+
     public static void main(String[] args) {
+        if (args.length > 0) {
+            if (args[0].equals("agent")) {
+                view = Gui.View.PLAYER_VIEW;
+            }
+        }
+
         World world = WorldFileHandler.getWorld("wumpus_world_1.txt");
         Game wumpusGame = new Game(world, new AgentPlayer(world.getN(), world.getM(), world.getExit()));
-        Gui gfx = new Gui(wumpusGame);
+        Gui gfx = new Gui(wumpusGame, view);
         wumpusGame.start();
 
         try {

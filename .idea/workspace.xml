@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Wumpus:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6871f8a-71ec-445b-9c78-6e363852e2ec" name="Default Changelist" comment="" />
+    <list default="true" id="e6871f8a-71ec-445b-9c78-6e363852e2ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Wumpus_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/META-INF/Wumpus.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/aStar/AStarPathFinder$HeapEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/aStar/AStarPathFinder$HeapEntry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/aStar/AStarPathFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/aStar/AStarPathFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/aStar/AgentPathfinding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/aStar/AgentPathfinding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/aStar/DigraphCoordinates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/aStar/DigraphCoordinates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/aStar/DigraphNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/aStar/DigraphNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/aStar/DigraphWeightFuntion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/aStar/DigraphWeightFuntion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/aStar/EuclidianHeuristicFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/aStar/EuclidianHeuristicFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/aStar/HeuristicFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/aStar/HeuristicFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/core/Game$Move.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/core/Game$Move.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/core/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/core/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/core/Gui$View.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/core/Gui$View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/core/Gui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/core/Gui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/game_objects/Position$Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/game_objects/Position$Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/game_objects/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/game_objects/Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/game_objects/Tile$Effect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/game_objects/Tile$Effect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/game_objects/Tile$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/game_objects/Tile$Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/game_objects/Tile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/game_objects/Tile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/game_objects/World.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/game_objects/World.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/players/AgentPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/players/AgentPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/players/HumanPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/players/HumanPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/players/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/players/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/world/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/world/Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Wumpus/world/WorldFileHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Wumpus/world/WorldFileHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Gui.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,26 +51,36 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WbuanigFzbVNAoZCqeprv2Sabs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/world/maps" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P2PBombermanProject/p2p-bomberman-clone" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/world/maps" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_242" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Wumpus" />
@@ -54,18 +101,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -77,56 +113,55 @@
       <option name="presentableId" value="Default" />
       <updated>1579430681944</updated>
       <workItem from="1579430689527" duration="47301000" />
+      <workItem from="1579519344979" duration="883000" />
+      <workItem from="1579705998196" duration="73000" />
+      <workItem from="1579724836612" duration="524000" />
+      <workItem from="1598467949569" duration="2308000" />
+      <workItem from="1598519783546" duration="335000" />
+      <workItem from="1598539469379" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579432971387">
+    <state x="476" y="130" width="1024" height="845" key="#Project_Structure" timestamp="1598467972873">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579432971387" />
-    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1579456754452">
+    <state x="476" y="130" width="1024" height="845" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1598467972873" />
+    <state x="451" y="210" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598468102357">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1579456754452" />
-    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579432985368">
+    <state x="451" y="210" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1598468102357" />
+    <state x="716" y="345" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598475021623">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579432985368" />
-    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579433876125">
+    <state x="716" y="345" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1598475021623" />
+    <state x="1021" y="407" width="424" height="484" key="FileChooserDialogImpl" timestamp="1598539487911">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1598475824535" />
+    <state x="1021" y="407" key="FileChooserDialogImpl/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1598539487911" />
+    <state width="903" height="157" key="GridCell.Tab.0.bottom" timestamp="1598475826073">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579433876125" />
-    <state width="1807" height="199" key="GridCell.Tab.0.bottom" timestamp="1579511919729">
+    <state width="903" height="157" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1598475826073" />
+    <state width="903" height="157" key="GridCell.Tab.0.center" timestamp="1598475826071">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="199" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579511919729" />
-    <state width="1807" height="199" key="GridCell.Tab.0.center" timestamp="1579511919728">
+    <state width="903" height="157" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1598475826071" />
+    <state width="903" height="157" key="GridCell.Tab.0.left" timestamp="1598475826070">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="199" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579511919728" />
-    <state width="1807" height="199" key="GridCell.Tab.0.left" timestamp="1579511919727">
+    <state width="903" height="157" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1598475826070" />
+    <state width="903" height="157" key="GridCell.Tab.0.right" timestamp="1598475826072">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="199" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579511919727" />
-    <state width="1807" height="199" key="GridCell.Tab.0.right" timestamp="1579511919728">
+    <state width="903" height="157" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1598475826072" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1598475026958">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="199" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579511919728" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579515045266">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579515045266" />
-    <state x="167" y="125" width="1653" height="855" key="dock-window-1" timestamp="1579476886625">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="167" y="125" width="1653" height="855" key="dock-window-1/67.27.1853.1053@67.27.1853.1053" timestamp="1579476886625" />
-    <state x="657" y="253" key="run.anything.popup" timestamp="1579439136445">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579439136445" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1598475026958" />
   </component>
 </project>

@@ -6,27 +6,27 @@ import game_objects.Tile;
 
 import javax.swing.*;
 import java.awt.*;
-import java.io.ObjectInputFilter;
 
 public class Gui extends JPanel {
 
     private JFrame f;
     private int tileWidth;
     private int tileHeight;
-    private View view = View.PLAYER_VIEW;
+    private View view;
 
     private int height = 1024;
 
     private Game game;
 
-    enum View {
+    public enum View {
         OVERVIEW,
         PLAYER_VIEW
     }
 
 
-    public Gui(Game wumpusGame) {
+    public Gui(Game wumpusGame, View view) {
         this.game = wumpusGame;
+        this.view = view;
         initFrame();
         initGui();
     }
